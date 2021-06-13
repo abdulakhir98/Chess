@@ -1,4 +1,5 @@
 # Chess
+## Description
 Chess is a recreational and competitive board game played between two players. It is sometimes called Western or international chess to distinguish it from related games such as xiangqi.
 
 Chess pieces are divided into two different colored sets. While the sets may not be literally white and black (e.g. the light set may be a yellowish or off-white color, the dark set may be brown or red), they are always referred to as "white" and "black". The players of the sets are referred to as White and Black, respectively. Each set consists of 16 pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns.
