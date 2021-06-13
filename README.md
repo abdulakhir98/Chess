@@ -5,3 +5,7 @@ Chess pieces are divided into two different colored sets. While the sets may not
 
 The game is played on a square board of eight rows (called ranks) and eight columns (called files). By convention, the 64 squares alternate in color and are referred to as light and dark squares; common colors for chessboards are white and brown, or white and dark green.
 
+## How to use
+Download or Clone and then open it on Visual Studio.
+
+Run it.
